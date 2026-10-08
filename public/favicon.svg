@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CyberAware logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00ff9c"/>
+      <stop offset="1" stop-color="#00d4ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4 56 13v18c0 15-10 25-24 29C18 56 8 46 8 31V13z" fill="#0a1620" stroke="url(#g)" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 11 50 17.5V31c0 11-7.500 18.500-18 22C21.500 49.500 14 42 14 31V17.500z" fill="none" stroke="url(#g)" stroke-width="1" opacity=".45"/>
+  <circle cx="32" cy="27" r="6" fill="url(#g)"/>
+  <path d="M29.500 31h5l2.500 14H27z" fill="url(#g)"/>
+</svg>
